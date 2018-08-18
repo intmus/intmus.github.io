@@ -1,0 +1,71 @@
+/* add chapter styles for sidebar */
+.chapter {
+    cursor: pointer;
+}
+.chapter-contents {
+    display: none;
+}
+.active-chapter {
+    .chapter-contents {
+        display: block;
+    }
+}
+/* fix theme background color bug */
+.theme-base-0d .sidebar-toggle:active,
+.theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #555; 
+}
+/* index page link buttons */
+.index-buttons {
+    padding-left: 0; 
+    li {
+        list-style: none;
+        display: inline-block;
+        border: solid 1px #6a9fb5;
+        border-radius: 5px;
+        padding: 2px 5px;
+        margin: 4px 2px 2px 2px;
+    }
+}
+/* chapter navigation */
+#chapter-nav {
+    color: #c0c0c0;
+    font-size: 16px;
+    text-align: right;
+    line-height: 1.25;
+    a { color: #c0c0c0;
+    }
+
+}
+#chapter-buttons {
+    display: block;
+    margin: 2rem auto 0;
+    .topic-nav {
+        display: inline-block;
+        width: 49%;
+        border: solid 1px #6a9fb5;
+        border-radius: 5px;
+        padding: 2px 5px;
+        font-size: 16px;
+        text-align: center;
+        a { 
+            display: inline-block;
+            width: 100%;
+        }
+    }
+    .prev { float: left; }
+    .next { float: right; }
+}
+#chapter-buttons:after {
+    content: "";
+    display: table;
+    clear: both;    
+}
+/* forum */
+.forum-help {
+    font-size: 14px;
+    color: #7a7a7a;
+    text-align: center;
+    border: solid 1px #cccccc;
+    border-radius: 5px;
+}

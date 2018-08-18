@@ -1,0 +1,27 @@
+# Integrated Musicianship: A Theory and Aural Skills Method
+# OER Music text book, by Sean Butterfield and Miranda Wilson
+
+# jekyll theme adapted from Lanyon, https://github.com/poole/lanyon
+# by evanwill
+
+# site info
+title: "Integrated Musicianship"
+tagline: "A Theory and Aural Skills Method"
+description: "open, interactive, online textbooks for college music"
+keywords: "music theory, OER, university of idaho, inquiry-based"
+owner: Sean Butterfield
+email: sbutterfield@uidaho.edu
+published: 2018
+github-repo: https://github.com/intmus/intmus.github.io
+
+# urls
+url: https://intmus.github.io
+baseurl: 
+
+# collections
+# each unit of the book is a collection
+# each unit collection should be given a name value
+# collections:
+
+# ignore stuff
+exclude: [docs]
