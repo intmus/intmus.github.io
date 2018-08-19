@@ -1,6 +1,6 @@
 ---
 title: IntMus Forum
-layout: forum
+layout: page
 ---
 
 Welcome to the *Integrated Musicianship* Forum!
