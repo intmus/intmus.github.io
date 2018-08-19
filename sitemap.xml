@@ -1,9 +1,10 @@
 ---
+# generate sitemap of html pages
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for p in site.pages %}
+{% for p in site.html_pages %}
    <url>
 
       <loc>{{ p.url | absolute_url }}</loc>
