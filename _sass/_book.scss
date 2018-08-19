@@ -1,3 +1,32 @@
+/* apply theme following lanyon method */
+.sidebar,
+.sidebar-toggle:active,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: $theme-color;
+}
+.container a,
+.sidebar-toggle,
+.related-posts li a:hover {
+  color: $theme-color;
+}
+/* fix theme background color bug */
+.sidebar-toggle:active,
+#sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #555; 
+}
+/* index page link buttons */
+.index-buttons {
+    padding-left: 0; 
+    text-align: center;
+    li {
+        list-style: none;
+        display: inline-block;
+        border: solid 1px $theme-color;
+        border-radius: 5px;
+        padding: 2px 5px;
+        margin: 4px 2px 2px 2px;
+    }
+}
 /* add chapter styles for sidebar */
 .chapter {
     cursor: pointer;
@@ -10,22 +39,22 @@
         display: block;
     }
 }
-/* fix theme background color bug */
-.theme-base-0d .sidebar-toggle:active,
-.theme-base-0d #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #555; 
-}
-/* index page link buttons */
-.index-buttons {
-    padding-left: 0; 
-    li {
-        list-style: none;
-        display: inline-block;
-        border: solid 1px #6a9fb5;
-        border-radius: 5px;
-        padding: 2px 5px;
-        margin: 4px 2px 2px 2px;
+.sidebar {
+    color: $sidenav-text-color;
+    a {
+        color: $sidenav-link-color;
     }
+}
+.sidebar-nav {
+    border-bottom: 1px solid $sidenav-active-bg;
+}
+.sidebar-nav-item {
+    border-top: 1px solid $sidenav-active-bg;
+}
+.sidebar-nav-item.active,
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus {
+    background-color: $sidenav-active-bg;
 }
 /* chapter navigation */
 #chapter-nav {
@@ -43,7 +72,7 @@
     .topic-nav {
         display: inline-block;
         width: 49%;
-        border: solid 1px #6a9fb5;
+        border: solid 1px $theme-color;
         border-radius: 5px;
         padding: 2px 5px;
         font-size: 16px;
