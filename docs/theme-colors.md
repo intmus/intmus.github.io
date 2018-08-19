@@ -13,7 +13,7 @@ To change the colors, edit the `assets/css/main.scss` file:
 
 The colors are HTML color codes. 
 Try a [color picker](https://www.w3schools.com/colors/colors_picker.asp) to find color codes. 
-I usually use the hex codes that start with `#`, for example `#fff` is white, `#000000` is black, `#cdcdcd` is a grey. 
+I usually use the hex codes that start with `#`, for example `#fff` is white, `#000000` is black, `#cdcdcd` is a grey, `#F1B300` is Pride Gold (see [official UI colors](https://www.uidaho.edu/brand-resource-center/visual-style-guide/color-identity)). 
 The Lanyon themes used transparency for the backgrounds, for example `rgba(255,255,255,.1)` is a very transparent white, thus lightens the color it is on top of. 
 However, that is unnecessary, and can be replaced with a normal color if desired.
 
