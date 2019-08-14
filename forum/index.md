@@ -11,7 +11,7 @@ For information about getting started with [Disqus](https://disqus.com/) and our
 ## General discussions:
 
 - [Typos and Website Suggestions]({{ "/forum/suggestions.html" | absolute_url }}) ([0 Comments]({{ "/forum/suggestions.html#disqus_thread" | absolute_url }}))
-- [IntMus Theory forums](https://intmus.github.io/inttheory18-19/forum/index.html)
-- [IntMus Aural Skills forums](https://intmus.github.io/intas18-19/forum/index.html)
+- [IntMus Theory forums](https://intmus.github.io/inttheory19-20/forum/index.html)
+- [IntMus Aural Skills forums](https://intmus.github.io/intas19-20/forum/index.html)
 
 <script id="dsq-count-scr" src="//intmus.disqus.com/count.js" async></script>
