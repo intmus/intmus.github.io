@@ -4,8 +4,8 @@ title: Integrated Musicianship
 ---
 
 <ul class="index-buttons">
-<li><a href="https://intmus.github.io/inttheory18-19/">IntMus: Theory</a></li>
-<li><a href="https://intmus.github.io/intas18-19/">IntMus: Aural Skills</a></li>
+<li><a href="https://intmus.github.io/inttheory19-20/">IntMus: Theory</a></li>
+<li><a href="https://intmus.github.io/intas19-20/">IntMus: Aural Skills</a></li>
 <li><a href="{{ "/about.html" | absolute_url }}">About</a></li>
 </ul>
 
