@@ -4,10 +4,10 @@ title: Integrated Musicianship
 ---
 
 <ul class="index-buttons">
-<li><a href="https://intmus.github.io/inttheory19-20/">IntMus: Theory</a></li>
+<li><a href="https://intmus.github.io/inttheory20-21/">IntMus: Theory (2020-21)</a></li>
 <li><a href="https://intmus.github.io/intas19-20/">IntMus: Aural Skills</a></li>
 <li><a href="{{ "/about.html" | absolute_url }}">About</a></li>
-<li><a href="{{ "/archive.html" | absolute_url }}">Archive</a></li>
+<li><a href="{{ "/archive.html" | absolute_url }}">Archive (past editions)</a></li>
 </ul>
 
 *Integrated Musicianship: A Theory and Aural Skills Method* are open-source, interactive, online textbooks for college-level music courses written by Sean Butterfield and Miranda Wilson.
