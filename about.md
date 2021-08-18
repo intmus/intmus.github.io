@@ -3,7 +3,7 @@ layout: page
 title: About Integrated Musicianship
 ---
 
-*Integrated Musicianship: A Theory and Aural Skills Method* provides a parallel [Music Theory](https://intmus.github.io/intheory19-20/) and [Aural Skills](https://intmus.github.io/intas19-20/) textbook for college-level music courses.
+*Integrated Musicianship: A Theory and Aural Skills Method* provides a parallel [Music Theory](https://intmus.github.io/inttheory21-22/) and [Aural Skills](https://intmus.github.io/intas19-20/) textbook for college-level music courses.
 
 ## Course structure and textbook layout
 

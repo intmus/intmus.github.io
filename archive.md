@@ -7,6 +7,10 @@ IntMus textbooks evolve each semester in response to the unique learning process
 Each year, a new edition is created.
 Older editions are preserved as a permanent reference for the course.
 
+### 2021-22
+
+- [IntMus: Theory 21-22](https://intmus.github.io/inttheory21-22/)
+
 ### 2020-21
 
 - [IntMus: Theory 20-21](https://intmus.github.io/inttheory20-21/)
