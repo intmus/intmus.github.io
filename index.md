@@ -4,7 +4,7 @@ title: Integrated Musicianship
 ---
 
 <ul class="index-buttons">
-<li><a href="https://intmus.github.io/inttheory22-23">IntMus: Theory (2022-23)</a></li>
+<li><a href="https://intmus.github.io/inttheory/">IntMus: Theory (2023+)</a></li>
 <li><a href="https://intmus.github.io/intas19-20/">IntMus: Aural Skills (2019-20)</a></li>
 <li><a href="{{ '/about.html' | relative_url }}">About</a></li>
 <li><a href="{{ '/archive.html' | relative_url }}">Archive (past editions)</a></li>
